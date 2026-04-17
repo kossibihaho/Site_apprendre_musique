@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    container_name: site_musique
+    ports:
+      - "80:80"
+    restart: unless-stopped
