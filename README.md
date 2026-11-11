@@ -69,4 +69,6 @@ Le design du site s'appuie sur le template gratuit **TemplateMo 606 String**, de
 ## 👤 Auteur
 
 **Kossi BIHAHO**, élève ingénieur en Réseaux, Systèmes et Services Programmables (ENSA Marrakech)
-🔗 [GitHub](https://github.com/kossibihaho) · 📩 bihahokossi@gmail.com
+
+🔗 [GitHub](https://github.com/kossibihaho)  
+📩 bihahokossi@gmail.com
